@@ -1,0 +1,58 @@
+ 
+/* 播放 */
+@font-face {
+  font-family: 'iconfont';  /* Project id 3740373 */
+  src: url('https://at.alicdn.com/t/c/font_3740373_y08i9drblu.woff2?t=1667207478681') format('woff2'),
+       url('https://at.alicdn.com/t/c/font_3740373_y08i9drblu.woff?t=1667207478681') format('woff'),
+       url('https://at.alicdn.com/t/c/font_3740373_y08i9drblu.ttf?t=1667207478681') format('truetype');
+}
+ 
+.iconfont {
+  font-family: "iconfont" !important;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+ 
+.icon-bofanganniu:before {
+  content: "\e628";
+}
+ 
+/* 暂停 */
+@font-face {
+  font-family: 'iconfont';  /* Project id 3740382 */
+  src: url('https://at.alicdn.com/t/c/font_3740382_mrrswfti5k.woff2?t=1667207599785') format('woff2'),
+       url('https://at.alicdn.com/t/c/font_3740382_mrrswfti5k.woff?t=1667207599785') format('woff'),
+       url('https://at.alicdn.com/t/c/font_3740382_mrrswfti5k.ttf?t=1667207599785') format('truetype');
+}
+ 
+.iconfont {
+  font-family: "iconfont" !important;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+ 
+.icon-zanting:before {
+  content: "\e600";
+}
+/* 播放列表 */
+@font-face {
+  font-family: 'iconfont';  /* Project id 3740393 */
+  src: url('https://at.alicdn.com/t/c/font_3740393_unr3lgox5gr.woff2?t=1667207714247') format('woff2'),
+       url('https://at.alicdn.com/t/c/font_3740393_unr3lgox5gr.woff?t=1667207714247') format('woff'),
+       url('https://at.alicdn.com/t/c/font_3740393_unr3lgox5gr.ttf?t=1667207714247') format('truetype');
+}
+ 
+.iconfont {
+  font-family: "iconfont" !important;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+ 
+.icon-bofangliebiao:before {
+  content: "\e6a7";
+}
+ 
+ 
